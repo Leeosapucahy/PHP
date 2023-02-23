@@ -2,6 +2,12 @@
 
   - Função do projeto é um site funcional para administração do salão Melanina Hair, localizado no Piauí.
 
+  - Contém três pastas:
+      
+      - Análise e modelagem de todas as dores do cliente;
+      - Código php onde se encontra toda a codificação do site;
+      - Engenharia de requisitos onde foi feito todo o levantamento teórico para o projeto ser realizado
+
   - Site desenvolvido todo em PHP, MySQL, HTML e CSS:
   
       - PHP para a parte do backend;
@@ -25,4 +31,5 @@
   - Podendo ser acessado de qualquer lugar através de sua URL.
   
   - O site contém uma tela de login, as informações de login são salvas no banco de dados, podendo ser criadas quantas credenciais o administrador precisar.
+  
   
