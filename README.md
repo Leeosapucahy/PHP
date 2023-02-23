@@ -4,9 +4,9 @@
 
   - Contém três pastas:
       
-      - Análise e modelagem de todas as dores do cliente;
-      - Código php onde se encontra toda a codificação do site;
-      - Engenharia de requisitos onde foi feito todo o levantamento teórico para o projeto ser realizado
+      - Análise e modelagem - onde estão todas as dores do cliente;
+      - Código projeto - onde se encontra toda a codificação do site;
+      - Engenharia de requisitos - onde foi feito todo o levantamento teórico para o projeto ser realizado
 
   - Site desenvolvido todo em PHP, MySQL, HTML e CSS:
   
