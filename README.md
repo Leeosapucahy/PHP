@@ -22,11 +22,12 @@
     
   
   - O site contém uma pagina para cada tipo de armazenamento:
-        - Estoque;
-        - Quantidade;
-        - Clientes;
-        - Contatos;
-        - Agendamentos;
+        
+       - Estoque;
+       - Quantidade;
+       - Clientes;
+       - Contatos;
+       - Agendamentos;
         
   - Podendo ser acessado de qualquer lugar através de sua URL.
   
